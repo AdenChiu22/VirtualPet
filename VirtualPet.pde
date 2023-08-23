@@ -23,7 +23,15 @@ triangle(140,200,60,320,170,250);//left hand
 
 fill(255,255,255);
 noStroke();
-triangle(270,210,340,320,220,250);//right hand
+triangle(270,213,340,320,220,250);//right hand
+
+fill(255,174,66);
+noStroke();
+triangle(170,320,100,395,260,350);//left foot
+
+fill(255,174,66);
+noStroke();
+triangle(230,320,300,395,140,350);//right foot
 
 
 fill (0,51,102);
@@ -56,7 +64,7 @@ rect(188,190,25,40);//belly
 
 fill(255,255,255);
 noStroke();
-ellipse(200,270,120,120);//belly
+ellipse(200,270,130,130);//belly
 
 fill(255,174,66);
 noStroke();
@@ -71,11 +79,4 @@ line(180,185,220,185);//beak
 
 
 }
-
-
-
-
-
-
-
 
