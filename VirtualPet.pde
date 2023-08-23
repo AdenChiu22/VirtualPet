@@ -17,6 +17,14 @@ triangle(120,210,50,330,170,270);//left hand
 fill(0,51,102);
 triangle(280,210,350,330,230,270);//right hand
 
+fill(255,255,255);
+noStroke();
+triangle(140,200,60,320,170,250);//left hand
+
+fill(255,255,255);
+noStroke();
+triangle(270,210,340,320,220,250);//right hand
+
 
 fill (0,51,102);
 noStroke();
